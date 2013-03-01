@@ -1,0 +1,8 @@
+bin
+gen
+doc
+libs
+assets
+.settings
+secure.properties
+local.properties
